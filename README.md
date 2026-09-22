@@ -1,3 +1,3 @@
 # NEXUS Forense Online
 
-Build Firebase com mensagens de autenticação em português.
+Build final com Firebase, proteção contra campos undefined e mensagens de autenticação em português.
